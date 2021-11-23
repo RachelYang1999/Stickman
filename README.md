@@ -2,6 +2,7 @@ SOFT2201 Assignment 2
 =====================
 
 ## Style guide
+
 Code style: Google Java Style Guide https://google.github.io/styleguide/javaguide.html
 
 Code style tooling: https://github.com/google/google-java-format
@@ -20,9 +21,9 @@ Some configurations are provided as well, to try them use use the command `gradl
 
  * `example.json` -- The example configuration, it includes a small level with a few enemies
  * `big_stickamn_fast_clouds.json` -- A configuration where the stickman is big and the clouds
-  are faster
+    are faster
  * `broken_config.json` -- A JSON file that is not a well formed configuration, missing all the
-  required information. This will cause an error on loading
+    required information. This will cause an error on loading
  * `broken_config_2.json` -- Not even a JSON file. This will also cause an error on loading
 
 ### Configuration format
@@ -47,7 +48,7 @@ At the top level of the json we set some "global" configuration settings, things
   The different movements have different behaviors
   * `guard`: the slime will walk back and forth over a spot, to guard it
   * `random`: the slime will move randomly, either left, right, jump or staying still. It may
-   combine jumping with a direction
+      combine jumping with a direction
   * `stay`: stay will keep the slime in its starting position
 
 ## Enemies
