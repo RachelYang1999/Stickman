@@ -1,4 +1,4 @@
-SOFT2201 Assignment 2
+Stickman Platform Game
 =====================
 
 ![stickman](https://github.com/RachelYang1999/Stickman/blob/main/stickman.png)
