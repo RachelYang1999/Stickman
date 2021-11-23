@@ -1,6 +1,8 @@
 SOFT2201 Assignment 2
 =====================
 
+![stickman](https://github.com/RachelYang1999/Stickman/blob/main/stickman.png)
+
 ## Style guide
 
 Code style: Google Java Style Guide https://google.github.io/styleguide/javaguide.html
